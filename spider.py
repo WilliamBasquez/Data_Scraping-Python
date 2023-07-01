@@ -270,7 +270,7 @@ class Spider():
 
         """
 
-		self.__optimize_selenium_driver__(webpage)
+        self.__optimize_selenium_driver__(webpage)
         time.sleep(2)
         start_y = 0
 
